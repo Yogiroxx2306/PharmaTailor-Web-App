@@ -7,4 +7,4 @@ pip install -r requirements.txt Here,run this command to install all the depende
 
 python .\manage.py runserver Use this command to runserver for backend
 
-id = manufac14,password = 12345admin Here is a test manufacturer
+
